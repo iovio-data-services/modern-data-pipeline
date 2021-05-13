@@ -1,0 +1,9 @@
+.venv/
+.logs_queue/
+.telemetry/
+.vscode/
+history/
+logs/
+schedules/
+storage/
+**/__pycache__/
